@@ -662,3 +662,915 @@ LogInit: Object subsystem initialized
 [2018.03.02-16.36.20:964][187]LogSavePackage: Save=260.05ms
 [2018.03.02-16.36.20:964][187]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/ThirdPersonExampleMap9720869A4045CB75186C6E8029A2B45C.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2018.03.02-16.36.20:967][187]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.02-16.36.49:312][599]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.03.02-16.36.49:322][599]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.36.49:671][599]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.03.02-16.36.49:811][599]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.36.51:146][627]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.36.51:146][627]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.36.51:146][627]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.36.51:146][627]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.37.21:803][122]LogMaterialEditor: Saving and Compiling material InsecureMAT
+[2018.03.02-16.37.21:948][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/InsecureMAT" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset" SILENT=true
+[2018.03.02-16.37.21:959][122]LogSavePackage: Save=10.50ms
+[2018.03.02-16.37.21:959][122]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecureMATF0A799CC47BA220E9C0E39B35A9A769F.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset'
+[2018.03.02-16.37.21:960][122]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset
+[2018.03.02-16.37.38:486][484]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.03.02-16.37.38:528][484]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.03.02-16.37.52:486][743]Cmd: TRANSACTION UNDO
+[2018.03.02-16.37.52:486][743]LogEditorTransaction: Undo Edit Landscape Material
+[2018.03.02-16.38.08:314][ 71]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2018.03.02-16.38.08:353][ 71]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2018.03.02-16.38.12:084][118]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.02-16.38.12:253][118]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.02-16.38.12:282][118]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.02-16.38.14:518][155]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.38.14:518][155]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.38.14:518][155]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.38.14:518][155]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.38.21:601][273]Cmd: TRANSACTION UNDO
+[2018.03.02-16.38.21:601][273]LogEditorTransaction: Undo Edit Landscape Material
+[2018.03.02-16.38.27:135][363]LogRenderer: Reallocating scene render targets to support 1392x924 Format 10 NumSamples 1 (Frame:1).
+[2018.03.02-16.38.33:885][470]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT_Inst, compiling. 
+[2018.03.02-16.38.33:993][470]TextureStreamingBuild: Display: Compiling optional shaders took 0.120 seconds.
+[2018.03.02-16.39.37:442][390]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.39.49:661][647]LogEditorViewport: Clicking on Actor (LMB): InsecurePlatBP_C (InsecurePlatBP)
+[2018.03.02-16.39.51:422][693]LogEditorViewport: Clicking on Actor (LMB): InsecurePlatBP_C (InsecurePlatBP)
+[2018.03.02-16.39.52:654][718]LogEditorViewport: Clicking on Actor (LMB): InsecurePlatBP_C (InsecurePlatBP)
+[2018.03.02-16.39.54:620][768]LogEditorViewport: Clicking on Actor (LMB): InsecurePlatBP_C (InsecurePlatBP)
+[2018.03.02-16.40.14:149][183]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT_Inst, compiling. 
+[2018.03.02-16.40.14:405][183]TextureStreamingBuild: Display: Compiling optional shaders took 0.260 seconds.
+[2018.03.02-16.40.18:440][252]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.18:540][252]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.18:559][252]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.19:686][270]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.40.19:686][270]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.40.19:686][270]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.40.19:686][270]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.40.27:085][403]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.27:101][403]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.02-16.40.27:107][403]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.27:168][403]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.02-16.40.28:179][421]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.40.28:179][421]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.40.28:179][421]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.40.28:179][421]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.40.39:521][627]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.39:538][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.40.39:544][627]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.39:584][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.40.40:659][648]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.40.40:659][648]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.40.40:659][648]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.40.40:659][648]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.40.48:774][789]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.48:792][789]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.40.49:773][806]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.40.49:773][806]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.40.49:773][806]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.40.49:773][806]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.40.58:514][955]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.40.58:538][955]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.40.59:551][973]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.40.59:551][973]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.40.59:551][973]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.40.59:551][973]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.41.01:681][  9]LogMaterialEditor: Saving and Compiling material InsecureMAT
+[2018.03.02-16.41.02:293][  9]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.41.02:348][  9]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.41.02:394][  9]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.41.02:459][  9]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT, compiling. 
+[2018.03.02-16.41.03:199][  9]TextureStreamingBuild: Display: Compiling optional shaders took 0.749 seconds.
+[2018.03.02-16.41.05:073][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/InsecureMAT" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset" SILENT=true
+[2018.03.02-16.41.05:085][  9]LogSavePackage: Save=10.54ms
+[2018.03.02-16.41.05:085][  9]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecureMAT297125DF4D28B52271D9C6B6D49DB017.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset'
+[2018.03.02-16.41.05:086][  9]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset
+[2018.03.02-16.41.05:103][  9]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.41.05:103][  9]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.41.05:103][  9]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.41.05:103][  9]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.02-16.42.08:627][772]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.42.08:732][772]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.42.08:750][772]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.42.08:790][772]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.03.02-16.42.08:797][772]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.42.09:935][800]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.42.09:935][800]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.42.09:935][800]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.42.09:935][800]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.42.39:520][307]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.42.40:702][328]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.02-16.42.40:702][328]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.02-16.42.40:702][328]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.42.40:702][328]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.42.47:856][450]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.42.47:878][450]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.42.48:895][468]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.42.48:895][468]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.42.48:895][468]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.42.48:895][468]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.42.49:427][476]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.42.50:518][496]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.42.50:518][496]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.42.50:518][496]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.42.50:518][496]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.42.56:939][606]LogMaterialEditor: Saving and Compiling material InsecureMAT
+[2018.03.02-16.42.57:367][606]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.42.57:420][606]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.42.57:449][606]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.42.57:496][606]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT, compiling. 
+[2018.03.02-16.42.58:266][606]TextureStreamingBuild: Display: Compiling optional shaders took 0.774 seconds.
+[2018.03.02-16.43.00:149][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/InsecureMAT" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset" SILENT=true
+[2018.03.02-16.43.00:163][606]LogSavePackage: Save=11.90ms
+[2018.03.02-16.43.00:163][606]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecureMATF05542D740A3A01174F2A0AB05ED08BC.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset'
+[2018.03.02-16.43.00:164][606]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset
+[2018.03.02-16.43.00:178][606]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.43.00:178][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.43.00:178][606]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.43.00:178][606]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.02-16.43.03:459][675]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.43.03:479][675]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.43.04:480][693]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.43.04:480][693]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.43.04:480][693]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.43.04:480][693]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.43.19:468][913]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.03.02-16.43.19:533][913]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.43.19:563][913]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.43.19:636][913]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT, compiling. 
+[2018.03.02-16.43.20:366][913]TextureStreamingBuild: Display: Compiling optional shaders took 0.738 seconds.
+[2018.03.02-16.44.02:363][727]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.03.02-16.44.02:466][727]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.03.02-16.44.02:484][727]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.03.02-16.44.02:525][727]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.44.03:694][746]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.44.03:695][746]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.44.03:695][746]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.44.03:695][746]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.44.05:501][777]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.03.02-16.44.06:092][778]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.560 s
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: 
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Renderer\Private\ShaderBaseClasses.cpp] [Line: 224]
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: TBasePassVSFNoLightMapPolicy shader uniform expression set mismatched shader map for material PreviewMaterial_2/WorldGridMaterial, forcing expression cache evaluation.
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: Material:  Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: Proxy:  PreviewMaterial /Engine/Transient.PreviewMaterial_2
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: 
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: Stack: 
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000CA252786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C9FF123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000CA00B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C68B8C81 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C636477C UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C6370D90 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C62CE6DD UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C62CF0B2 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C6323F15 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C6357A52 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C6358D18 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C63575A7 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C63D793E UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C690E9A4 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C68EDA76 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C9EB4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000C9EB4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000CFC522C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000CFC532F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000CA25092C UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000CA242563 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x00000000775E59CD kernel32.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: [Callstack] 0x000000007771A561 ntdll.dll!UnknownFunction []
+[2018.03.02-16.44.06:099][778]LogOutputDevice: Error: 
+[2018.03.02-16.44.06:099][778]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.02-16.44.09:369][778]LogStats:                    SendNewReport -  3.269 s
+[2018.03.02-16.44.09:369][778]LogStats:             FDebug::EnsureFailed -  3.836 s
+[2018.03.02-16.44.09:369][778]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.000 s
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: 
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Renderer\Private\ShaderBaseClasses.cpp] [Line: 224]
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: TBasePassPSFNoLightMapPolicy shader uniform expression set mismatched shader map for material PreviewMaterial_2/WorldGridMaterial, forcing expression cache evaluation.
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: Material:  Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: Proxy:  PreviewMaterial /Engine/Transient.PreviewMaterial_2
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: 
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: Stack: 
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000CA252786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C9FF123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000CA00B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C68B74C1 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C6364616 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C6370E54 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C62CE6DD UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C62CF0B2 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C6323F15 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C6357A52 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C6358D18 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C63575A7 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C63D793E UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C690E9A4 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C68EDA76 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C9EB4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000C9EB4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000CFC522C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000CFC532F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000CA25092C UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000CA242563 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x00000000775E59CD kernel32.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: [Callstack] 0x000000007771A561 ntdll.dll!UnknownFunction []
+[2018.03.02-16.44.09:369][778]LogOutputDevice: Error: 
+[2018.03.02-16.44.09:369][778]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.02-16.44.09:526][778]LogStats:                    SendNewReport -  0.157 s
+[2018.03.02-16.44.09:526][778]LogStats:             FDebug::EnsureFailed -  0.157 s
+[2018.03.02-16.44.09:626][781]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.44.09:626][781]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.44.09:626][781]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.44.09:626][781]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.44.30:577][154]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.03.02-16.44.30:679][155]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.03.02-16.44.31:721][173]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.44.31:722][173]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.44.31:722][173]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.44.31:722][173]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.44.36:272][251]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.03.02-16.44.37:203][268]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.44.37:203][268]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.44.37:203][268]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.44.37:203][268]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.44.40:439][324]LogMaterialEditor: Saving and Compiling material InsecureMAT
+[2018.03.02-16.44.40:858][324]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.03.02-16.44.40:909][324]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.44.40:958][324]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.44.41:025][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT, compiling. 
+[2018.03.02-16.44.41:745][324]TextureStreamingBuild: Display: Compiling optional shaders took 0.728 seconds.
+[2018.03.02-16.44.43:555][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/InsecureMAT" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset" SILENT=true
+[2018.03.02-16.44.43:566][324]LogSavePackage: Save=9.54ms
+[2018.03.02-16.44.43:566][324]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecureMATBB583FE74434FA41A0A492ABB3028318.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset'
+[2018.03.02-16.44.43:567][324]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset
+[2018.03.02-16.44.43:585][324]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.44.43:585][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.44.43:585][324]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.44.43:585][324]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.02-16.45.37:601][164]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.03.02-16.47.34:148][981]LogEditorTransaction: Undo Mouse Drag
+[2018.03.02-16.47.38:742][ 55]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.47.54:523][304]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.48.04:145][426]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.03.02-16.48.04:303][426]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.03.02-16.48.04:322][426]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.03.02-16.48.04:372][426]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.48.05:614][444]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.48.05:614][444]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.48.05:614][444]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.48.05:614][444]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.48.29:845][754]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.03.02-16.48.29:891][754]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.48.29:922][754]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.48.29:978][754]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT, compiling. 
+[2018.03.02-16.48.30:936][754]TextureStreamingBuild: Display: Compiling optional shaders took 0.964 seconds.
+[2018.03.02-16.48.46:994][975]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.03.02-16.49.00:671][208]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT_Inst, compiling. 
+[2018.03.02-16.49.00:917][208]TextureStreamingBuild: Display: Compiling optional shaders took 0.249 seconds.
+[2018.03.02-16.49.35:444][858]LogEditorViewport: Clicking on Actor (LMB): InsecurePlatBP_C (InsecurePlatBP)
+[2018.03.02-16.50.29:474][781]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.50.37:677][952]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.50.41:009][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-16.50.41:018][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.50.41:018][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-16.50.41:018][ 21]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 6:50:41 PM)
+[2018.03.02-16.50.41:018][ 21]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-16.50.41:058][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039532s)
+[2018.03.02-16.50.41:059][ 21]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-16.50.41:059][ 21]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2018.03.02-16.50.41:059][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040552s)
+[2018.03.02-16.50.41:079][ 21]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-16.50.41:085][ 21]LogInit: FAudioDevice initialized.
+[2018.03.02-16.50.41:113][ 21]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-16.50.41:117][ 21]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-17.50.41
+[2018.03.02-16.50.41:118][ 21]LogWorld: Bringing up level for play took: 0.003840
+[2018.03.02-16.50.41:119][ 21]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.128
+[2018.03.02-16.50.41:119][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.50.52:237][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.50.52:301][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.50.52:380][301]Cmd: SELECT NONE
+[2018.03.02-16.51.15:319][660]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.51.18:299][714]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-16.51.18:309][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.51.18:309][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-16.51.18:309][714]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 6:51:18 PM)
+[2018.03.02-16.51.18:309][714]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-16.51.18:335][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026053s)
+[2018.03.02-16.51.18:336][714]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-16.51.18:336][714]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.03.02-16.51.18:336][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027124s)
+[2018.03.02-16.51.18:351][714]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-16.51.18:356][714]LogInit: FAudioDevice initialized.
+[2018.03.02-16.51.18:387][714]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-16.51.18:391][714]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-17.51.18
+[2018.03.02-16.51.18:391][714]LogWorld: Bringing up level for play took: 0.003150
+[2018.03.02-16.51.18:392][714]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.601
+[2018.03.02-16.51.18:392][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.51.51:053][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.51.51:117][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.51.53:677][180]LogEditorViewport: Clicking on Actor (LMB): InsecurePlatBP_C (InsecurePlatBP)
+[2018.03.02-16.52.18:457][580]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.52.21:211][632]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-16.52.21:221][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.52.21:221][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-16.52.21:221][632]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 6:52:21 PM)
+[2018.03.02-16.52.21:221][632]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-16.52.21:249][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028345s)
+[2018.03.02-16.52.21:250][632]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-16.52.21:250][632]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.03.02-16.52.21:250][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029474s)
+[2018.03.02-16.52.21:267][632]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-16.52.21:272][632]LogInit: FAudioDevice initialized.
+[2018.03.02-16.52.21:299][632]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-16.52.21:303][632]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-17.52.21
+[2018.03.02-16.52.21:303][632]LogWorld: Bringing up level for play took: 0.003309
+[2018.03.02-16.52.21:304][632]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.307
+[2018.03.02-16.52.21:304][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.52.31:451][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.52.31:515][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-16.52.42:160][130]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.52.49:086][268]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.52.49:226][268]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.52.49:245][268]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.52.49:288][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.52.50:426][287]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.52.50:426][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.52.50:426][287]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.52.50:426][287]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.52.54:581][358]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.52.55:544][376]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.52.55:544][376]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.52.55:544][376]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.52.55:544][376]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.52.59:667][446]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.53.00:591][463]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.53.00:591][463]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.53.00:591][463]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.53.00:591][463]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.53.05:058][532]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.03.02-16.53.05:242][533]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.03.02-16.53.05:474][534]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.03.02-16.53.05:682][535]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.03.02-16.53.24:075][849]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.53.25:053][867]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.53.25:053][867]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.53.25:053][867]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.53.25:053][867]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.53.36:858][ 70]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.53.37:878][ 88]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.53.37:878][ 88]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.53.37:878][ 88]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.53.37:878][ 88]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.53.54:938][372]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.53.55:888][389]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.53.55:888][389]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.53.55:888][389]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.53.55:888][389]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.54.37:067][ 42]LogMaterialEditor: Saving and Compiling material InsecureMAT
+[2018.03.02-16.54.37:489][ 42]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.03.02-16.54.37:555][ 42]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.54.37:595][ 42]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.54.37:641][ 42]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT, compiling. 
+[2018.03.02-16.54.38:540][ 42]TextureStreamingBuild: Display: Compiling optional shaders took 0.908 seconds.
+[2018.03.02-16.54.40:367][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/InsecureMAT" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset" SILENT=true
+[2018.03.02-16.54.40:384][ 42]LogSavePackage: Save=14.43ms
+[2018.03.02-16.54.40:384][ 42]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecureMAT67ED2D6A48D25BBEE16FC5B08A2155A0.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset'
+[2018.03.02-16.54.40:385][ 42]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset
+[2018.03.02-16.54.40:415][ 42]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.54.40:415][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.54.40:415][ 42]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.54.40:415][ 42]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.02-16.55.00:980][367]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.55.01:118][367]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.55.01:137][367]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.55.01:181][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.55.02:267][385]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.55.02:267][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.55.02:267][385]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.55.02:267][385]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.55.36:974][975]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.55.38:122][995]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.55.38:122][995]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.55.38:122][995]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.55.38:122][995]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.55.38:244][997]LogMaterialEditor: Saving and Compiling material InsecureMAT
+[2018.03.02-16.55.38:682][997]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.55.38:819][997]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.55.38:863][997]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.55.38:940][997]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT, compiling. 
+[2018.03.02-16.55.39:539][997]TextureStreamingBuild: Display: Compiling optional shaders took 0.608 seconds.
+[2018.03.02-16.55.41:374][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/InsecureMAT" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset" SILENT=true
+[2018.03.02-16.55.41:385][997]LogSavePackage: Save=9.47ms
+[2018.03.02-16.55.41:385][997]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecureMATBB52B0DB48F3451CAA0DC9BC33BDBA74.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset'
+[2018.03.02-16.55.41:386][997]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset
+[2018.03.02-16.55.41:400][997]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.55.41:400][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.55.41:400][997]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.55.41:400][997]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.02-16.55.50:700][162]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.55.51:707][181]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.55.51:707][181]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.55.51:707][181]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.55.51:707][181]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.56.39:024][965]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.39:065][965]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.40:892][996]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.02-16.56.40:892][996]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2018.03.02-16.56.40:892][996]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.56.40:892][996]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.56.44:318][ 50]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.44:335][ 50]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.45:182][ 64]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.45:222][ 64]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.45:848][ 74]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.45:874][ 74]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.46:945][ 93]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.56.46:945][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.56.46:945][ 93]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.56.46:945][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.56.48:531][119]LogMaterialEditor: Saving and Compiling material InsecureMAT
+[2018.03.02-16.56.48:949][119]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2018.03.02-16.56.49:029][119]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.56.49:074][119]LogMaterial: Missing cached shader map for material InsecureMAT, compiling. 
+[2018.03.02-16.56.49:140][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT, compiling. 
+[2018.03.02-16.56.49:781][119]TextureStreamingBuild: Display: Compiling optional shaders took 0.649 seconds.
+[2018.03.02-16.56.51:743][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/InsecureMAT" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset" SILENT=true
+[2018.03.02-16.56.51:754][119]LogSavePackage: Save=9.87ms
+[2018.03.02-16.56.51:754][119]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecureMAT7D9B07C84C04033B0286F59C6E299DD7.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset'
+[2018.03.02-16.56.51:755][119]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT.uasset
+[2018.03.02-16.56.51:788][119]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.56.51:788][119]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.56.51:788][119]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.56.51:788][119]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.02-16.57.26:705][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/InsecureMAT_Inst" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT_Inst.uasset" SILENT=true
+[2018.03.02-16.57.26:727][728]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy InsecureMAT_Inst, compiling. 
+[2018.03.02-16.57.26:973][728]TextureStreamingBuild: Display: Compiling optional shaders took 0.250 seconds.
+[2018.03.02-16.57.26:999][728]LogSavePackage: Save=9.61ms
+[2018.03.02-16.57.26:999][728]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecureMAT_Inst2AC4BC6D460A8FEB3DDA61BBA169B8AC.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT_Inst.uasset'
+[2018.03.02-16.57.27:000][728]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/InsecureMAT_Inst.uasset
+[2018.03.02-16.57.37:417][990]LogEditorViewport: Clicking on Actor (LMB): InsecurePlatBP_C (InsecurePlatBP)
+[2018.03.02-16.57.55:578][359]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2018.03.02-16.57.55:716][359]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2018.03.02-16.57.55:736][359]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2018.03.02-16.57.55:781][359]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.03.02-16.57.56:890][377]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.03.02-16.57.56:890][377]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.03.02-16.57.56:890][377]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.02-16.57.56:891][377]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.02-16.58.33:117][ 55]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-16.59.30:180][ 92]LogSavePackage: Save=297.03ms
+[2018.03.02-16.59.30:180][ 92]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/ThirdPersonExampleMap97E5856B493BB56AA7580582ED6BABBF.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.02-16.59.30:183][ 92]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.02-16.59.33:603][173]LogEditorViewport: Clicking on Actor (LMB): InsecurePlatBP_C (InsecurePlatBP)
+[2018.03.02-16.59.57:707][627]BlueprintLog: New page: Compile InsecurePlatBP
+[2018.03.02-17.02.20:221][248]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2018.03.02-17.02.25:350][324]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.02.49:150][825]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.03.30:392][737]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.03.47:454][109]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.05.51:171][572]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.07.04:586][926]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.03.02-17.07.19:858][ 89]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.07.32:488][382]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.07.32:499][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.07.32:499][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.07.32:499][382]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:07:32 PM)
+[2018.03.02-17.07.32:499][382]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.07.32:524][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025208s)
+[2018.03.02-17.07.32:525][382]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.07.32:525][382]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.03.02-17.07.32:525][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026351s)
+[2018.03.02-17.07.32:544][382]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.07.32:549][382]LogInit: FAudioDevice initialized.
+[2018.03.02-17.07.32:578][382]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.07.32:582][382]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.07.32
+[2018.03.02-17.07.32:582][382]LogWorld: Bringing up level for play took: 0.003252
+[2018.03.02-17.07.32:583][382]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.477
+[2018.03.02-17.07.32:583][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.07.38:845][542]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.07.38:908][542]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.07.40:228][575]LogEditorViewport: Clicking on Actor (LMB): ConventionalPlatform_C (ConventionalPlatform)
+[2018.03.02-17.08.03:694][  9]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.02-17.09.55:853][ 21]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.09.58:694][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.09.58:705][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.09.58:705][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.09.58:705][ 72]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:09:58 PM)
+[2018.03.02-17.09.58:705][ 72]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.09.58:732][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027261s)
+[2018.03.02-17.09.58:733][ 72]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.09.58:733][ 72]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.03.02-17.09.58:733][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028267s)
+[2018.03.02-17.09.58:756][ 72]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.09.58:761][ 72]LogInit: FAudioDevice initialized.
+[2018.03.02-17.09.58:791][ 72]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.09.58:795][ 72]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.09.58
+[2018.03.02-17.09.58:795][ 72]LogWorld: Bringing up level for play took: 0.003147
+[2018.03.02-17.09.58:796][ 72]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.274
+[2018.03.02-17.09.58:796][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.10.10:099][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.10.10:160][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.10.11:173][338]LogEditorViewport: Clicking on Actor (LMB): ConventionalPlatform_C (ConventionalPlatform)
+[2018.03.02-17.10.41:629][882]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.10.43:732][919]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.10.43:742][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.10.43:742][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.10.43:743][919]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:10:43 PM)
+[2018.03.02-17.10.43:743][919]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.10.43:769][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026211s)
+[2018.03.02-17.10.43:770][919]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.10.43:770][919]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.03.02-17.10.43:770][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027418s)
+[2018.03.02-17.10.43:790][919]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.10.43:795][919]LogInit: FAudioDevice initialized.
+[2018.03.02-17.10.43:824][919]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.10.43:828][919]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.10.43
+[2018.03.02-17.10.43:828][919]LogWorld: Bringing up level for play took: 0.003249
+[2018.03.02-17.10.43:829][919]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.756
+[2018.03.02-17.10.43:829][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.10.51:193][ 82]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.10.51:257][ 82]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.11.02:258][277]LogEditorViewport: Clicking on Actor (LMB): ConventionalPlatform_C (ConventionalPlatform)
+[2018.03.02-17.11.06:129][359]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.11.06:138][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.11.06:138][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.11.06:139][359]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:11:06 PM)
+[2018.03.02-17.11.06:139][359]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.11.06:162][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023643s)
+[2018.03.02-17.11.06:163][359]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.11.06:163][359]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.03.02-17.11.06:163][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024717s)
+[2018.03.02-17.11.06:194][359]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.11.06:198][359]LogInit: FAudioDevice initialized.
+[2018.03.02-17.11.06:227][359]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.11.06:231][359]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.11.06
+[2018.03.02-17.11.06:231][359]LogWorld: Bringing up level for play took: 0.003165
+[2018.03.02-17.11.06:232][359]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.842
+[2018.03.02-17.11.06:232][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.11.44:002][134]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.11.44:080][134]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.11.56:636][352]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.11.58:659][389]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.11.58:669][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.11.58:669][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.11.58:670][389]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:11:58 PM)
+[2018.03.02-17.11.58:670][389]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.11.58:694][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023993s)
+[2018.03.02-17.11.58:694][389]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.11.58:695][389]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.03.02-17.11.58:695][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025136s)
+[2018.03.02-17.11.58:714][389]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.11.58:719][389]LogInit: FAudioDevice initialized.
+[2018.03.02-17.11.58:746][389]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.11.58:750][389]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.11.58
+[2018.03.02-17.11.58:750][389]LogWorld: Bringing up level for play took: 0.003472
+[2018.03.02-17.11.58:751][389]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.327
+[2018.03.02-17.11.58:751][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.12.12:592][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.12.12:658][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.12.35:758][106]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.12.46:285][307]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.12.48:592][352]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.12.48:602][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.12.48:602][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.12.48:602][352]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:12:48 PM)
+[2018.03.02-17.12.48:602][352]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.12.48:625][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022999s)
+[2018.03.02-17.12.48:626][352]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.12.48:626][352]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2018.03.02-17.12.48:626][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024132s)
+[2018.03.02-17.12.48:658][352]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.12.48:663][352]LogInit: FAudioDevice initialized.
+[2018.03.02-17.12.48:694][352]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.12.48:698][352]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.12.48
+[2018.03.02-17.12.48:698][352]LogWorld: Bringing up level for play took: 0.003317
+[2018.03.02-17.12.48:699][352]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.383
+[2018.03.02-17.12.48:699][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.13.01:144][618]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.13.01:208][618]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.13.08:402][740]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.13.10:911][787]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.13.10:925][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.13.10:925][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.13.10:925][787]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:13:10 PM)
+[2018.03.02-17.13.10:925][787]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.13.10:949][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023508s)
+[2018.03.02-17.13.10:950][787]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.13.10:950][787]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.03.02-17.13.10:950][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024514s)
+[2018.03.02-17.13.10:975][787]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.13.10:980][787]LogInit: FAudioDevice initialized.
+[2018.03.02-17.13.11:006][787]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.13.11:010][787]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.13.11
+[2018.03.02-17.13.11:010][787]LogWorld: Bringing up level for play took: 0.003148
+[2018.03.02-17.13.11:011][787]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.073
+[2018.03.02-17.13.11:011][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.13.22:289][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.13.22:362][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.13.24:426][ 87]LogEditorViewport: Clicking on Actor (LMB): ConventionalPlatform_C (ConventionalPlatform)
+[2018.03.02-17.13.24:546][ 88]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.03.02-17.14.15:669][ 36]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.14.17:755][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.14.17:765][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.14.17:766][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.14.17:766][ 73]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:14:17 PM)
+[2018.03.02-17.14.17:766][ 73]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.14.17:794][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028349s)
+[2018.03.02-17.14.17:795][ 73]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.14.17:795][ 73]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2018.03.02-17.14.17:795][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029364s)
+[2018.03.02-17.14.17:819][ 73]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.14.17:823][ 73]LogInit: FAudioDevice initialized.
+[2018.03.02-17.14.17:851][ 73]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.14.17:856][ 73]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.14.17
+[2018.03.02-17.14.17:856][ 73]LogWorld: Bringing up level for play took: 0.004378
+[2018.03.02-17.14.17:857][ 73]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.768
+[2018.03.02-17.14.17:857][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.14.35:005][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.14.35:076][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.14.43:259][592]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.14.45:175][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ConventionalPlatform" FILE="C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/ConventionalPlatform.uasset" SILENT=true
+[2018.03.02-17.14.45:198][622]LogSavePackage: Save=22.36ms
+[2018.03.02-17.14.45:198][622]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/ConventionalPlatform09576DAF4E9839CD5177369231473726.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/ConventionalPlatform.uasset'
+[2018.03.02-17.14.45:199][622]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Content/ThirdPersonBP/ConventionalPlatform.uasset
+[2018.03.02-17.14.47:380][668]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.14.47:389][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.14.47:390][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.14.47:390][668]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:14:47 PM)
+[2018.03.02-17.14.47:390][668]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.14.47:412][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021940s)
+[2018.03.02-17.14.47:413][668]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.14.47:413][668]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.03.02-17.14.47:413][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023098s)
+[2018.03.02-17.14.47:431][668]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.14.47:437][668]LogInit: FAudioDevice initialized.
+[2018.03.02-17.14.47:468][668]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.14.47:472][668]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.14.47
+[2018.03.02-17.14.47:472][668]LogWorld: Bringing up level for play took: 0.003222
+[2018.03.02-17.14.47:473][668]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.383
+[2018.03.02-17.14.47:473][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.14.55:423][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.14.55:500][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.15.12:119][137]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.15.14:741][183]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.15.14:750][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.15.14:750][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.15.14:750][183]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:15:14 PM)
+[2018.03.02-17.15.14:750][183]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.15.14:772][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021938s)
+[2018.03.02-17.15.14:773][183]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.15.14:773][183]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2018.03.02-17.15.14:773][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023033s)
+[2018.03.02-17.15.14:794][183]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.15.14:800][183]LogInit: FAudioDevice initialized.
+[2018.03.02-17.15.14:831][183]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.15.14:835][183]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.15.14
+[2018.03.02-17.15.14:835][183]LogWorld: Bringing up level for play took: 0.003165
+[2018.03.02-17.15.14:836][183]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.255
+[2018.03.02-17.15.14:836][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.15.25:394][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.15.25:491][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.15.49:182][840]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.16.08:219][184]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.17.28:364][623]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.18.13:254][445]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.18.18:476][534]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.18.20:924][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.18.20:934][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.18.20:934][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.18.20:934][579]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:18:20 PM)
+[2018.03.02-17.18.20:934][579]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.18.20:960][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025245s)
+[2018.03.02-17.18.20:960][579]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.18.20:960][579]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2018.03.02-17.18.20:961][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026426s)
+[2018.03.02-17.18.20:977][579]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.18.20:982][579]LogInit: FAudioDevice initialized.
+[2018.03.02-17.18.21:007][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.18.21:011][579]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.18.21
+[2018.03.02-17.18.21:011][579]LogWorld: Bringing up level for play took: 0.003291
+[2018.03.02-17.18.21:012][579]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.093
+[2018.03.02-17.18.21:012][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.18.25:115][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.18.25:192][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.19.05:182][379]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.19.08:789][448]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.19.08:799][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.19.08:799][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.19.08:799][448]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:19:08 PM)
+[2018.03.02-17.19.08:799][448]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.19.08:822][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022131s)
+[2018.03.02-17.19.08:822][448]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.19.08:822][448]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2018.03.02-17.19.08:823][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023286s)
+[2018.03.02-17.19.08:843][448]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.19.08:847][448]LogInit: FAudioDevice initialized.
+[2018.03.02-17.19.08:874][448]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.19.08:878][448]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.19.08
+[2018.03.02-17.19.08:878][448]LogWorld: Bringing up level for play took: 0.003595
+[2018.03.02-17.19.08:879][448]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.229
+[2018.03.02-17.19.08:880][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.19.34:755][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.19.34:842][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.20.21:085][826]LogSavePackage: Save=277.16ms
+[2018.03.02-17.20.21:085][826]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/ThirdPersonExampleMap_Auto2749859364034FDFC0DA6E1B91033006A.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.03.02-17.20.21:085][826]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.03.02-17.20.21:087][826]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.304
+[2018.03.02-17.20.21:087][826]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.304
+[2018.03.02-17.20.21:101][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/InsecurePlatBP] ([1] browsable assets)...
+[2018.03.02-17.20.21:128][826]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/InsecurePlatBP.InsecurePlatBP]
+[2018.03.02-17.20.21:128][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/InsecurePlatBP]
+[2018.03.02-17.20.21:148][826]LogSavePackage: Save=19.03ms
+[2018.03.02-17.20.21:148][826]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/InsecurePlatBP_Auto2E7BF347F4468D0011571879C35D62931.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/Autosaves/Game/ThirdPersonBP/InsecurePlatBP_Auto2.uasset'
+[2018.03.02-17.20.21:149][826]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/Autosaves/Game/ThirdPersonBP/InsecurePlatBP_Auto2.uasset
+[2018.03.02-17.20.21:149][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/ConventionalPlatform] ([1] browsable assets)...
+[2018.03.02-17.20.21:178][826]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/ConventionalPlatform.ConventionalPlatform]
+[2018.03.02-17.20.21:178][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/ConventionalPlatform]
+[2018.03.02-17.20.21:202][826]LogSavePackage: Save=22.16ms
+[2018.03.02-17.20.21:202][826]LogSavePackage: Moving 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/ConventionalPlatform_Auto2ED27219D431B7206AD5F4BA7EFE80ED7.tmp' to 'C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/Autosaves/Game/ThirdPersonBP/ConventionalPlatform_Auto2.uasset'
+[2018.03.02-17.20.21:202][826]LogSavePackage: Display: Finished SavePackage C:/Users/carles.condeminas/Desktop/ExamenBackupHome/MyProject/Saved/Autosaves/Game/ThirdPersonBP/ConventionalPlatform_Auto2.uasset
+[2018.03.02-17.20.21:203][826]LogFileHelpers: Auto-saving content packages took 0.114
+[2018.03.02-17.22.05:074][704]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.22.21:178][995]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.22.23:638][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.22.23:648][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.22.23:648][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.22.23:648][ 40]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:22:23 PM)
+[2018.03.02-17.22.23:648][ 40]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.22.23:672][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023898s)
+[2018.03.02-17.22.23:673][ 40]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.22.23:673][ 40]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2018.03.02-17.22.23:673][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025000s)
+[2018.03.02-17.22.23:692][ 40]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.22.23:698][ 40]LogInit: FAudioDevice initialized.
+[2018.03.02-17.22.23:726][ 40]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.22.23:730][ 40]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.22.23
+[2018.03.02-17.22.23:730][ 40]LogWorld: Bringing up level for play took: 0.003209
+[2018.03.02-17.22.23:731][ 40]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.64
+[2018.03.02-17.22.23:731][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.22.33:465][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.22.33:546][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.22.57:020][661]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.23.02:586][750]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.23.02:596][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.23.02:596][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.23.02:596][750]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:23:02 PM)
+[2018.03.02-17.23.02:596][750]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.23.02:619][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022901s)
+[2018.03.02-17.23.02:620][750]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.23.02:620][750]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.03.02-17.23.02:620][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024079s)
+[2018.03.02-17.23.02:642][750]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.23.02:647][750]LogInit: FAudioDevice initialized.
+[2018.03.02-17.23.02:674][750]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.23.02:677][750]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.23.02
+[2018.03.02-17.23.02:678][750]LogWorld: Bringing up level for play took: 0.003160
+[2018.03.02-17.23.02:679][750]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.407
+[2018.03.02-17.23.02:679][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.23.10:371][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.23.10:441][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.23.38:246][427]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.23.44:664][549]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.23.44:673][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.23.44:673][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.23.44:674][549]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:23:44 PM)
+[2018.03.02-17.23.44:674][549]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.23.44:696][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022082s)
+[2018.03.02-17.23.44:697][549]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.23.44:697][549]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2018.03.02-17.23.44:697][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023227s)
+[2018.03.02-17.23.44:717][549]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.23.44:722][549]LogInit: FAudioDevice initialized.
+[2018.03.02-17.23.44:752][549]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.23.44:756][549]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.23.44
+[2018.03.02-17.23.44:757][549]LogWorld: Bringing up level for play took: 0.003528
+[2018.03.02-17.23.44:757][549]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.323
+[2018.03.02-17.23.44:758][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.23.51:567][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.23.51:642][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.24.36:455][513]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.24.59:160][938]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.25.03:550][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.25.03:559][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.25.03:560][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.25.03:560][ 18]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:25:03 PM)
+[2018.03.02-17.25.03:560][ 18]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.25.03:583][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023531s)
+[2018.03.02-17.25.03:584][ 18]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.25.03:584][ 18]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.03.02-17.25.03:584][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024556s)
+[2018.03.02-17.25.03:604][ 18]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.25.03:609][ 18]LogInit: FAudioDevice initialized.
+[2018.03.02-17.25.03:638][ 18]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.25.03:642][ 18]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.25.03
+[2018.03.02-17.25.03:643][ 18]LogWorld: Bringing up level for play took: 0.004067
+[2018.03.02-17.25.03:644][ 18]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.573
+[2018.03.02-17.25.03:644][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.25.08:636][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.25.08:723][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.25.36:722][637]LogEditorTransaction: Undo Delete current selection
+[2018.03.02-17.25.37:983][658]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.27.24:704][615]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.27.28:899][684]LogEditorViewport: Clicking on Actor (LMB): ConventionalPlatform_C (ConventionalPlatform)
+[2018.03.02-17.27.49:938][100]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.27.52:936][160]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.27.52:947][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.27.52:947][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.27.52:947][160]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:27:52 PM)
+[2018.03.02-17.27.52:947][160]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.27.52:970][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022671s)
+[2018.03.02-17.27.52:971][160]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.27.52:971][160]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2018.03.02-17.27.52:971][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023763s)
+[2018.03.02-17.27.52:991][160]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.27.52:996][160]LogInit: FAudioDevice initialized.
+[2018.03.02-17.27.53:024][160]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.27.53:028][160]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.27.53
+[2018.03.02-17.27.53:028][160]LogWorld: Bringing up level for play took: 0.003109
+[2018.03.02-17.27.53:029][160]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.037
+[2018.03.02-17.27.53:029][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.27.56:472][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.27.56:538][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.28.36:483][991]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.29.36:295][108]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.30.01:976][586]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.30.15:106][823]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.30.17:008][857]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.30.17:018][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.30.17:018][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.30.17:018][857]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:30:17 PM)
+[2018.03.02-17.30.17:018][857]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.30.17:041][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022486s)
+[2018.03.02-17.30.17:042][857]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.30.17:042][857]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2018.03.02-17.30.17:042][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023743s)
+[2018.03.02-17.30.17:061][857]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.30.17:066][857]LogInit: FAudioDevice initialized.
+[2018.03.02-17.30.17:096][857]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.30.17:100][857]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.30.17
+[2018.03.02-17.30.17:100][857]LogWorld: Bringing up level for play took: 0.003494
+[2018.03.02-17.30.17:101][857]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.039
+[2018.03.02-17.30.17:101][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.30.26:604][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.30.26:687][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.30.28:329][ 99]LogEditorViewport: Clicking on Actor (LMB): ConventionalPlatform_C (ConventionalPlatform)
+[2018.03.02-17.30.32:257][184]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.30.32:267][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.30.32:267][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.30.32:267][184]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:30:32 PM)
+[2018.03.02-17.30.32:267][184]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.30.32:289][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021768s)
+[2018.03.02-17.30.32:290][184]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.30.32:290][184]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.03.02-17.30.32:290][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022872s)
+[2018.03.02-17.30.32:306][184]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.30.32:311][184]LogInit: FAudioDevice initialized.
+[2018.03.02-17.30.32:338][184]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.30.32:341][184]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.30.32
+[2018.03.02-17.30.32:342][184]LogWorld: Bringing up level for play took: 0.003136
+[2018.03.02-17.30.32:343][184]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.719
+[2018.03.02-17.30.32:343][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.30.43:603][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.30.43:667][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.31.08:926][897]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.31.11:707][952]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.31.11:717][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.31.11:717][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.31.11:717][952]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:31:11 PM)
+[2018.03.02-17.31.11:717][952]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.31.11:740][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022261s)
+[2018.03.02-17.31.11:741][952]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.31.11:741][952]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.03.02-17.31.11:741][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023718s)
+[2018.03.02-17.31.11:782][952]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.31.11:787][952]LogInit: FAudioDevice initialized.
+[2018.03.02-17.31.11:815][952]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.31.11:819][952]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.31.11
+[2018.03.02-17.31.11:819][952]LogWorld: Bringing up level for play took: 0.003193
+[2018.03.02-17.31.11:820][952]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.76
+[2018.03.02-17.31.11:820][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.31.20:176][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.31.20:251][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.31.31:096][332]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.32.15:104][141]BlueprintLog: New page: Compile ConventionalPlatform
+[2018.03.02-17.32.17:392][183]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-17.32.17:402][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.32.17:402][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-17.32.17:402][183]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 2, 2018, 7:32:17 PM)
+[2018.03.02-17.32.17:402][183]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.02-17.32.17:426][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023635s)
+[2018.03.02-17.32.17:427][183]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.02-17.32.17:427][183]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2018.03.02-17.32.17:427][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024837s)
+[2018.03.02-17.32.17:448][183]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.02-17.32.17:452][183]LogInit: FAudioDevice initialized.
+[2018.03.02-17.32.17:482][183]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.02-17.32.17:486][183]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.02-18.32.17
+[2018.03.02-17.32.17:486][183]LogWorld: Bringing up level for play took: 0.003545
+[2018.03.02-17.32.17:487][183]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.429
+[2018.03.02-17.32.17:487][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.32.27:429][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.32.27:519][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.02-17.32.54:738][905]BlueprintLog: New page: Compile ConventionalPlatform
